@@ -1,0 +1,13 @@
+class Position(var id: Int, var name: String) {}
+Array(new Position(1, "Intern"), new Position(2, "Junior"), new Position(3, "Middle"), new Position(4, "Senior"), new Position(5, "Director"))
+
+
+val positionsRdd = sc.parallelize(
+  Seq(
+    Row(1, "Intern"),
+    Row(2, "Junior"),
+    Row(3, "Middle"),
+    Row(4, "Senior"),
+    Row(5, "Director")
+  )
+)

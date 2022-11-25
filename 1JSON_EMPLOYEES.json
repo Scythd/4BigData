@@ -1,0 +1,70 @@
+[{
+	"Name":"Nikita",
+	"Surename":"Moklyak",
+	"Age":21,
+	"Department":"Backend",
+	"Position":"Intern"
+},
+{
+	"Name":"Sergey",
+	"Surename":"Kvitka",
+	"Age":20,
+	"Department":"Assesor",
+	"Position":"Junior"
+},
+{
+	"Name":"Artyem",
+	"Surename":"Myraviev",
+	"Age":21,
+	"Department":"Backend",
+	"Position":"Middle"
+},
+{
+	"Name":"Vlad",
+	"Surename":"Kirichenko",
+	"Age":21,
+	"Department":"1C",
+	"Position":"Middle"
+},
+{
+	"Name":"Alexey",
+	"Surename":"Kuzmin",
+	"Age":37,
+	"Department":"BigData",
+	"Position":"Senior"
+},
+{
+	"Name":"Elena",
+	"Surename":"Kushnikova",
+	"Age":38,
+	"Department":"Frontend",
+	"Position":"Senior"
+},
+{
+	"Name":"Petr",
+	"Surename":"Yarkov",
+	"Age":29,
+	"Department":"Frontend",
+	"Position":"Senior"
+},
+{
+	"Name":"Ivan",
+	"Surename":"Elin",
+	"Age":33,
+	"Department":"Backend",
+	"Position":"Middle"
+},
+{
+	"Name":"Yaroslav",
+	"Surename":"Kupcov",
+	"Age":28,
+	"Department":"Backend",
+	"Position":"Middle"
+},
+{
+	"Name":"Ivan",
+	"Surename":"Ivanov",
+	"Age":43,
+	"Department":"Management",
+	"Position":"Director"
+}]
